@@ -39,8 +39,6 @@ STEP 5: End the verilog program using keyword endmodule.
 
 
 
-Write the detailed procedure here 
-
 
 ## Program:
 /*
